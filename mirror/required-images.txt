@@ -3,12 +3,8 @@
 # 
 # 2. please add additional required images below
 #
-# Example
-# gcr.io/arrikto/jupyter-kale:4a5d7e63-9f74f267
+# Doc
+# https://www.arrikto.com/tutorials/an-end-to-end-ml-workflow-from-notebook-to-kubeflow-pipelines-with-minikf-kale/
 
-# Install kubecost in AWS China
-gcr.io/kubecost1/cost-model:prod-1.72.0
-gcr.io/kubecost1/frontend:prod-1.72.0
-gcr.io/kubecost1/server:prod-1.72.0
-grafana/grafana:7.1.1
-prom/prometheus:v2.17.2
+# kale-jupyterlab on kubeflowin AWS China
+gcr.io/arrikto/jupyter-kale:v0.5.0-47-g2427cc9
